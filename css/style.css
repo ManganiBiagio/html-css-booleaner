@@ -12,5 +12,23 @@ header{
     width: 10%;
     position: absolute;
     margin-top: 30px;
-
 }
+#titolo-main{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    margin: 1px;
+}
+
+/* --------------------------------------------------- */
+/* colori testo */
+#blue-color{
+    color: #68acdd;
+    font-weight: bold;
+}
+.gray-color{
+    color: gray;
+    font-size: 13px;
+}
+/* ------------------------------------------------- */
