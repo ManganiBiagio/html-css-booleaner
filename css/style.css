@@ -20,6 +20,15 @@ header{
 h1{
     margin: 1px;
 }
+.descrizioni-foto{
+    font-weight:200;
+    font-size:13px ;
+}
+
+/* correzzione padding per ul */
+ul{
+    padding-left: 20px;
+}
 
 /* --------------------------------------------------- */
 /* colori testo */
@@ -30,5 +39,8 @@ h1{
 .gray-color{
     color: gray;
     font-size: 13px;
+}
+.text-evidenziato{
+    background-color: yellow;
 }
 /* ------------------------------------------------- */
