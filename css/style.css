@@ -29,7 +29,27 @@ h1{
 ul{
     padding-left: 20px;
 }
+/* sfondi tabella */
+.sfondo-blu{
+    background-color: #1d79d1;
+    color: white;
+}
+.sfondo-celeste{
+    background-color: #9cccef;
+}
 
+/* --------------------------------------------------- */
+/* spaziatrure e gestione tabella */
+#table-0{
+    border-spacing: 0ch;
+    text-align: left; 
+}
+
+th, td {
+    padding-left:30px ;
+    padding-right:30px ;
+    
+  }
 /* --------------------------------------------------- */
 /* colori testo */
 #blue-color{
