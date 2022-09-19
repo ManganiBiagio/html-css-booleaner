@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+}
+main{
+    text-align: center;
+}
+header{
+    background-image:url(../img/pattern.png);
+    background-size: contain;
+    height: 80px;
+    background-color:#1d79d1;
+}
+#logo-booleaner{
+    width: 10%;
+    position: absolute;
+    margin-top: 30px;
+    
+}
+#titolo-main{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    margin: 1px;
+}
+.descrizioni-foto{
+    font-weight:200;
+    font-size:13px ;
+}
+.box-center{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+/* correzzione padding per ul */
+ul{
+    padding-left: 20px;
+}
+/* sfondi tabella */
+.sfondo-blu{
+    background-color: #1d79d1;
+    color: white;
+}
+.sfondo-celeste{
+    background-color: #9cccef;
+}
+
+/* --------------------------------------------------- */
+/* spaziatrure e gestione tabella */
+#table-0{
+    border-spacing: 0ch;
+    text-align: left; 
+}
+
+th, td {
+    padding-left:30px ;
+    padding-right:30px ;
+  }
+
+.riga-corta{
+    width:20%;
+}
+.riga-lunga{
+    width:40%
+}
+/* --------------------------------------------------- */
+/* colori testo */
+#blue-color{
+    color: #68acdd;
+    font-weight: bold;
+}
+.gray-color{
+    color: gray;
+    font-size: 13px;
+}
+.text-evidenziato{
+    background-color: yellow;
+}
+
+
+/* ------------------------------------------------- */
+/* foto correlate all'articolo */
+#foto-monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 130px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: large;
+   
+    
+
+}
+
+#foto-graph{
+    background-image: url(../img/graph.jpg);
+    height: 130px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: large;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* ------------------------------------------------- */
