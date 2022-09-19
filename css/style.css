@@ -64,3 +64,23 @@ th, td {
     background-color: yellow;
 }
 /* ------------------------------------------------- */
+/* foto correlate all'articolo */
+#foto-monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: large;
+}
+
+#foto-graph{
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: large;
+}
+
+/* ------------------------------------------------- */
