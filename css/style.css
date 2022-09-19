@@ -48,8 +48,14 @@ ul{
 th, td {
     padding-left:30px ;
     padding-right:30px ;
-    
   }
+
+.riga-corta{
+    width:20%;
+}
+.riga-lunga{
+    width:40%
+}
 /* --------------------------------------------------- */
 /* colori testo */
 #blue-color{
